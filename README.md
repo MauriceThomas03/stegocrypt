@@ -29,6 +29,7 @@ git clone https://github.com/MauriceThomas03/stegocrypt.git
 cd stegocrypt
 pip install -r requirements.txt
 ```
+Troubleshooting (Windows): If pip isn't recognized, use py -m pip install -r requirements.txt instead. Same applies to running scripts — use py script.py if python script.py isn't recognized.
 
 ## Usage
 
